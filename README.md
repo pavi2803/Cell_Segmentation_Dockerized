@@ -47,9 +47,7 @@ open up you local host and port
 
 # AZURE-CICD-Deployment-with-Github-Actions
 
-## Save pass:
 
-S6tXzK7IxUHz9O/9jkhciLsseddeQ++E+OcD7nQYy8+ACRDtEgUW
 
 
 ## Run from terminal:
